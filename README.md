@@ -7,9 +7,8 @@ I took the dataset from kaggle : https://www.kaggle.com/datasets/ruchi798/data-s
 
 
 QUESTIONS TO ANSWER
-1. Does remote work has an effect on salary in DS?
-2. Does company size has an effect on salary in DS?
-
+1. Does remote work affect the salary in DS? 
+2. Does the size of the company affect the salary in DS? 
 
 
 You will find one cleaned dataset: df.csv and raw dataset: ds_salaries.csv
