@@ -19,9 +19,11 @@ HYPOTHESIS
 FINAL RESULTS 
 
 1. Yes, the remote ratio has an influence on the salary - TRUE
+
 In all three company sizes majority of the people work remotely (08.2022) and they represent the highest average salary.
 It is very hard to estimate HOW remote ratio influences the salary.
 
 
 2. Biggest companies pays the highest salaries - FALSE
+3. 
 Most of the workers are employed by the medium size companies and in average earn the highest salaries.
