@@ -25,5 +25,5 @@ It is very hard to estimate HOW remote ratio influences the salary.
 
 
 2. Biggest companies pays the highest salaries - FALSE
-3. 
+
 Most of the workers are employed by the medium size companies and in average earn the highest salaries.
